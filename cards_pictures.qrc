@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/CardsPictures">
+        <file>CardsPictures/CARD1.jpg</file>
+        <file>CardsPictures/CARD3.jpg</file>
+        <file>CardsPictures/CARD6.jpg</file>
+        <file>CardsPictures/CARD8.jpg</file>
+        <file>CardsPictures/CARD9.jpg</file>
+        <file>CardsPictures/CARD11.jpg</file>
+        <file>CardsPictures/CARD13.jpg</file>
+        <file>CardsPictures/CARD14.jpg</file>
+        <file>CardsPictures/CARD16.jpg</file>
+        <file>CardsPictures/CARD18.jpg</file>
+        <file>CardsPictures/CARD19.jpg</file>
+        <file>CardsPictures/CARD21.jpg</file>
+        <file>CardsPictures/CARD23.jpg</file>
+        <file>CardsPictures/CARD24.jpg</file>
+        <file>CardsPictures/CARD26.jpg</file>
+        <file>CardsPictures/CARD27.jpg</file>
+        <file>CardsPictures/CARD29.jpg</file>
+        <file>CardsPictures/CARD31.jpg</file>
+        <file>CardsPictures/CARD32.jpg</file>
+        <file>CardsPictures/CARD34.jpg</file>
+        <file>CardsPictures/CARD37.jpg</file>
+        <file>CardsPictures/CARD39.jpg</file>
+        <file>CardsPictures/Board.png</file>
+        <file>CardsPictures/CARD5.png</file>
+        <file>CardsPictures/CARD12.png</file>
+        <file>CardsPictures/CARD15.png</file>
+        <file>CardsPictures/CARD25.png</file>
+        <file>CardsPictures/CARD28.png</file>
+        <file>CardsPictures/CARD35.png</file>
+        <file>CardsPictures/CARD4.png</file>
+        <file>CardsPictures/CARD38.png</file>
+    </qresource>
+</RCC>

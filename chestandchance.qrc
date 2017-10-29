@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/ChanceandCommunity">
+        <file>ChanceandCommunity/pic40.png</file>
+        <file>ChanceandCommunity/pic41.png</file>
+        <file>ChanceandCommunity/PIC42.png</file>
+        <file>ChanceandCommunity/PIC43.png</file>
+        <file>ChanceandCommunity/pic44.png</file>
+        <file>ChanceandCommunity/pic45.png</file>
+        <file>ChanceandCommunity/pic46.png</file>
+        <file>ChanceandCommunity/pic47.png</file>
+        <file>ChanceandCommunity/pic48.png</file>
+        <file>ChanceandCommunity/pic49.png</file>
+        <file>ChanceandCommunity/pic50.png</file>
+        <file>ChanceandCommunity/pic51.png</file>
+        <file>ChanceandCommunity/pic52.png</file>
+        <file>ChanceandCommunity/pic53.png</file>
+        <file>ChanceandCommunity/pic54.png</file>
+        <file>ChanceandCommunity/pic55.png</file>
+        <file>ChanceandCommunity/pic56.jpg</file>
+        <file>ChanceandCommunity/pic57.jpg</file>
+        <file>ChanceandCommunity/pic58.jpg</file>
+        <file>ChanceandCommunity/pic59.jpg</file>
+        <file>ChanceandCommunity/pic60.jpg</file>
+        <file>ChanceandCommunity/pic61.jpg</file>
+        <file>ChanceandCommunity/pic62.jpg</file>
+        <file>ChanceandCommunity/pic63.jpg</file>
+        <file>ChanceandCommunity/pic64.jpg</file>
+        <file>ChanceandCommunity/pic65.jpg</file>
+        <file>ChanceandCommunity/pic66.jpg</file>
+        <file>ChanceandCommunity/pic67.jpg</file>
+        <file>ChanceandCommunity/pic68.jpg</file>
+        <file>ChanceandCommunity/pic69.jpg</file>
+        <file>ChanceandCommunity/pic70.jpg</file>
+        <file>ChanceandCommunity/pic71.jpg</file>
+    </qresource>
+</RCC>
